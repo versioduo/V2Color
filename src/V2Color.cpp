@@ -1,3 +1,6 @@
+// © Kay Sievers <kay@vrfy.org>, 2020-2021
+// SPDX-License-Identifier: Apache-2.0
+
 #include <V2Color.h>
 
 // L* = 903.3 ∙ Y,            if Y ≤ 0.008856
